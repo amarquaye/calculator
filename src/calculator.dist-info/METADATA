@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: calculator
+Formal-Name: Calculator
+App-ID: ml.amarquaye.calculator
+Version: 0.0.1
+Home-page: https://amarquaye.ml/calculator
+Download-URL: https://amarquaye.ml/calculator
+Author: Jesse Amarquaye
+Author-email: llordjesse@gmail.com
+Summary: A simple calculator appliction built with beeware
